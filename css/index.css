@@ -1,0 +1,34 @@
+.navbar-color {
+    background-color: #304D96;
+}
+
+.nav-text {
+    color: white;
+}
+
+.font-family{
+    font-family: Arial, 'Neue Helvetica', sans-serif
+
+}
+
+.gray {
+background-color: #E9EBEE
+}
+
+#font {
+    font-size: 12px;
+    align-content: left;
+}
+
+#post-font {
+    color: grey;
+    font-size: 12px;
+}
+
+.gray {
+    color: gray;
+}
+
+.left-bar{
+    padding-left: 0;
+}
