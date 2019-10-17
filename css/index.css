@@ -1,5 +1,5 @@
 .navbar-color {
-    background-color: #304D96;
+    background-color: #3B5898;
 }
 
 .nav-text {
@@ -31,4 +31,15 @@ background-color: #E9EBEE
 
 .left-bar{
     padding-left: 0;
+}
+
+.blue {    
+color:#5673A7;
+font-size: 12px;
+
+}
+
+.gray {
+ color:#AEB1B7;
+ font-size: 12px;
 }
